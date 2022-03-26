@@ -1,4 +1,11 @@
-### Eae, Jamerson aki
+### Eae, Jamerson aki 
+
+<div align="center">
+▄▀▄─────▄▀▄<br>
+▄█░░▀▀▀▀▀░░█▄<br>
+▄▄──█░░░░░░░░░░░█──▄▄<br>
+█▄▄█─█░░▀░░┬░░▀░░█─█▄▄█<br>
+</div>
 
 <div align="center">
   <a href="https://github.com/jamisu337">
