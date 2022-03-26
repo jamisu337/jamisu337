@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/jamisu337">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jamisu337&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&title_color=9f4ec6&text_color=eeeeee&border_color=9f4ec6"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamisu337&layout=compact&langs_count=7&theme=midnight-purple&title_color=9f4ec6&text_color=eeeeee&border_color=9f4ec6"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jamisu337&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&title_color=9f4ec6&text_color=eeeeee&border_color=9f4ec6&bg_color=0d1117"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamisu337&layout=compact&langs_count=7&theme=midnight-purple&title_color=9f4ec6&text_color=eeeeee&border_color=9f4ec6&bg_color=0d1117"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -22,5 +22,3 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-
-
