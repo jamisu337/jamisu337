@@ -4,12 +4,12 @@
 
 <div align="center">
   <h2>Olá! Sou Jamerson Lima</h2>
-  <h3>Desenvolvedor Web | Matemático em Formação | Instrutor de Tecnologia</h3>
+  <h3>Desenvolvedor Web | Designer Gráfico | Matemático em Formação</h3>
   
   <p align="center">
-    Unindo a lógica da <b>Matemática</b> com a criatividade do <b>Design</b> para construir soluções web.
+    Unindo a lógica da <b>Matemática</b> com a estética do <b>Design</b> para construir interfaces únicas.
     <br/>
-    Atualmente cursando <b>Licenciatura em Matemática (UFRN)</b> e formado em <b>Desenvolvimento Web (IMD)</b>.
+    Atualmente cursando <b>Licenciatura em Matemática (UFRN)</b>, com formação em <b>Desenvolvimento Web (IMD)</b> e <b>Design Gráfico</b>.
     <br/>
     Tenho experiência ensinando <b>Robótica e Lógica de Programação</b>, o que reforça minha capacidade de comunicação e resolução de problemas.
   </p>
