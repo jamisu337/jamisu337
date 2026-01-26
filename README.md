@@ -1,30 +1,65 @@
-### Eae, Jamerson aki 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9f4ec6&height=200&section=header&text=＜Dev.Jamisu%20/＞&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&descAlignY=55&descAlign=62&descColor=ffffff"/>
+</div>
 
 <div align="center">
-▄▀▄─────▄▀▄<br>
-▄█░░▀▀▀▀▀░░█▄<br>
-▄▄──█░░░░░░░░░░░█──▄▄<br>
-█▄▄█─█░░▀░░┬░░▀░░█─█▄▄█<br>
+  <h2>Olá! Sou Jamerson Lima</h2>
+  <h3>Desenvolvedor Web | Matemático em Formação | Instrutor de Tecnologia</h3>
+  
+  <p align="center">
+    Unindo a lógica da <b>Matemática</b> com a criatividade do <b>Design</b> para construir soluções web.
+    <br/>
+    Atualmente cursando <b>Licenciatura em Matemática (UFRN)</b> e formado em <b>Desenvolvimento Web (IMD)</b>.
+    <br/>
+    Tenho experiência ensinando <b>Robótica e Lógica de Programação</b>, o que reforça minha capacidade de comunicação e resolução de problemas.
+  </p>
 </div>
+
+<br/>
 
 <div align="center">
   <a href="https://github.com/jamisu337">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jamisu337&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&title_color=9f4ec6&text_color=eeeeee&border_color=9f4ec6&bg_color=0d1117"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamisu337&layout=compact&langs_count=7&theme=midnight-purple&title_color=9f4ec6&text_color=eeeeee&border_color=9f4ec6&bg_color=0d1117"/>
-</div>
-<div style="display: inline_block" align="center"><br>
-  <img alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jamisu337&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&title_color=9f4ec6&text_color=eeeeee&border_color=9f4ec6&bg_color=0d1117"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamisu337&layout=compact&langs_count=8&theme=midnight-purple&title_color=9f4ec6&text_color=eeeeee&border_color=9f4ec6&bg_color=0d1117"/>
+  </a>
 </div>
 
-  ##
- 
+<br/>
+
+<div align="center">
+  <h3>🛠️ Tecnologias & Ferramentas</h3>
+  
+  <div style="display: inline_block">
+    <img alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img alt="C++" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  </div>
+  
+  <br/>
+  
+  <div style="display: inline_block">
+    <img alt="Photoshop" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg">
+    <img alt="Illustrator" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg">
+    <img alt="Git" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  </div>
+</div>
+
+<br/>
+
 <div align="center"> 
-  <a href="https://www.instagram.com/jamisu.337/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:jamersonlima337@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "wa.me/5584992105768"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
- 
-
- 
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:jamersonlima337@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://wa.me/5584992105768">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/jamisu.337/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
 </div>
