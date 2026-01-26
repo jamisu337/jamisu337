@@ -19,7 +19,6 @@
 
 <div align="center">
   <a href="https://github.com/jamisu337">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jamisu337&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&title_color=9f4ec6&text_color=eeeeee&border_color=9f4ec6&bg_color=0d1117"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamisu337&layout=compact&langs_count=8&theme=midnight-purple&title_color=9f4ec6&text_color=eeeeee&border_color=9f4ec6&bg_color=0d1117"/>
   </a>
 </div>
@@ -60,4 +59,37 @@
   <a href="https://www.instagram.com/jamisu.337/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
+</div>
+
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <div align="center">
+          <h3>📊 Github Stats</h3>
+          <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamisu337&layout=compact&langs_count=8&theme=midnight-purple&title_color=9f4ec6&text_color=eeeeee&border_color=9f4ec6&bg_color=0d1117"/>
+        </div>
+      </td>
+      <td width="50%" valign="top">
+        <div align="center">
+          <h3>🛠️ Techs</h3>
+          <div>
+            <img alt="Js" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+            <img alt="HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+            <img alt="CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+            <img alt="Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+            <img alt="Java" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+            <img alt="C++" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+          </div>
+          <br/>
+          <div>
+            <img alt="Photoshop" height="30" src="https://img.shields.io/badge/-ffffff?style=flat-square&logo=adobe%20photoshop&logoColor=31A8FF">
+            <img alt="Illustrator" height="30" src="https://img.shields.io/badge/-ffffff?style=flat-square&logo=adobe%20illustrator&logoColor=FF9A00">
+            <img alt="Git" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+          </div>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
