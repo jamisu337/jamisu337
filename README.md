@@ -45,6 +45,7 @@
     <img alt="Illustrator" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg">
     <img alt="Git" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   </div>
+
 </div>
 
 <br/>
