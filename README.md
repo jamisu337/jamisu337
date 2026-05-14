@@ -17,16 +17,10 @@
 
 <br/>
 
-<div align="center">
-  <a href="https://github.com/jamisu337">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamisu337&layout=compact&langs_count=8&theme=midnight-purple&title_color=9f4ec6&text_color=eeeeee&border_color=9f4ec6&bg_color=0d1117"/>
-  </a>
-</div>
-
 <br/>
 
 <div align="center">
-  <h3>🛠️ Tecnologias & Ferramentas</h3>
+  <h3>Tecnologias & Ferramentas</h3>
   
   <div style="display: inline_block">
     <img alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
